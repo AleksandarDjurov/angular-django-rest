@@ -1,7 +1,7 @@
 
-# Angular 2 and Django REST Framework
+# Angular 6 and Django REST Framework
 
-A simple example application where an Angular 2 app talks to an API running
+A simple example application where an Angular 6 app talks to an API running
 Django REST framework.
 
 # Setup
@@ -22,7 +22,7 @@ cd server
 python manage.py migrate
 ```
 
-## Install Angular 2 dependencies
+## Install Angular 6 dependencies
 
 ```
 cd ../client
@@ -38,7 +38,7 @@ Run the REST server:
 python manage.py runserver
 ```
 
-Start the Angular 2 app:
+Start the Angular 6 app:
 
 ```
 # in the client folder
